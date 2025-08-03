@@ -1,0 +1,48 @@
+# This file lists the Python packages required to run the graph_rag_small_llms notebook.
+# You can install all of them at once using the command:
+# pip install -r requirements.txt
+
+# --- Core AI & LLM Frameworks ---
+
+# The main framework for building applications with LLMs
+langchain
+# Core abstractions for LangChain that other packages depend on
+langchain-core
+# Community-contributed integrations, including Neo4j graph support
+langchain-community
+# Experimental LangChain components, like the LLMGraphTransformer
+langchain-experimental
+# Integration for running local models with Ollama
+langchain-ollama
+# The Boundary AI Markup Language (BAML) Python client for reliable structured output
+baml-py
+# OpenAI's tokenizer library, used for accurately counting tokens in text
+tiktoken
+# Pydantic is used for data validation and schema definition, used explicitly and by LangChain
+pydantic
+
+# --- Data Handling & Analysis ---
+
+# Powerful library for data manipulation and analysis, used for handling the news dataset
+pandas
+# Fundamental package for numerical computation in Python, used for statistics
+numpy
+
+# --- Database & Graph Science ---
+
+# The official Python driver for Neo4j, required by LangChain's Neo4jGraph
+neo4j
+# The Python client for the Neo4j Graph Data Science (GDS) library
+graphdatascience
+
+# --- Visualization & Utilities ---
+
+# The primary library for creating static, animated, and interactive visualizations
+matplotlib
+# A high-level interface for drawing attractive and informative statistical graphics
+seaborn
+# A fast, extensible progress bar for loops and long-running operations
+tqdm
+# Required for running the code in a Jupyter environment
+jupyterlab
+notebook
