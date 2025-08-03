@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Fareed Khan
+Copyright (c) 2025 BoundaryML baml
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### Notice on Third-party Code:
+
+Portions of this software are generated from or based on [BAML](https://github.com/BoundaryML/baml), which is licensed under the Apache License, Version 2.0.
+
+As such, this project includes components covered by the Apache 2.0 license. See `LICENSE-APACHE` for details.
+
+You may obtain a copy of the Apache License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
